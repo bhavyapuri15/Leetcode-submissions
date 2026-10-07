@@ -61,6 +61,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
