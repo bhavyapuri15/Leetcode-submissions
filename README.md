@@ -88,6 +88,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0078-subsets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0946-validate-stack-sequences) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1260-shift-2d-grid) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
