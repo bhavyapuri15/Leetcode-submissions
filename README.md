@@ -93,6 +93,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0075-sort-colors](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0150-evaluate-reverse-polish-notation) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0907-sum-of-subarray-minimums) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/3954-sum-of-compatible-numbers-in-range-i) |
