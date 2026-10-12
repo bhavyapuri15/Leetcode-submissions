@@ -11,6 +11,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0128-longest-consecutive-sequence](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0058-length-of-last-word](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1903-largest-odd-number-in-string) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
