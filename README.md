@@ -17,6 +17,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [1189-maximum-number-of-balloons](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/2154-keep-multiplying-found-values-by-two) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/2521-distinct-prime-factors-of-product-of-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/3120-count-the-number-of-special-characters-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0151-reverse-words-in-a-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0402-remove-k-digits) |
 | [1189-maximum-number-of-balloons](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/2559-count-vowel-strings-in-ranges) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0169-majority-element](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/1854-maximum-population-year) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/3968-maximum-manhattan-distance-after-all-moves) |
 | [3978-unique-middle-element](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/3978-unique-middle-element) |
