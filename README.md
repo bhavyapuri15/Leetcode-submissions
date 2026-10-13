@@ -94,6 +94,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0075-sort-colors) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0191-number-of-1-bits) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions solved by me - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bhavyapuri15/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyapuri15/Leetcode-submissions/tree/main/0907-sum-of-subarray-minimums) |
